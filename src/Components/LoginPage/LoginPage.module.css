@@ -1,0 +1,15 @@
+.login-page {
+  text-align: center;
+}
+
+.loginPage-header {
+  font-size: 3rem;
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 600;
+  color: var(--medium-blue);
+  padding: 40px 0;
+}
+.headerSpan {
+  color: var(--dark-blue);
+}
+

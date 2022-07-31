@@ -1,0 +1,11 @@
+/* .social-links ul {
+  display: flex;
+  width: 80%;
+} */
+
+.SocialIcons {
+  display: flex;
+  justify-content: space-around;
+  width: 250px;
+  list-style: none;
+}

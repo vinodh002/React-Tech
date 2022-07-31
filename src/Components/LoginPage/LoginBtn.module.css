@@ -1,0 +1,10 @@
+.loginBtn {
+  width: 150px;
+  height: 40px;
+  background-color: var(--dark-blue);
+  color: white;
+
+  text-align: center;
+  border-radius: 10px;
+  margin-top: 20px;
+}
